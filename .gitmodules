@@ -1,0 +1,3 @@
+[submodule "react-recipes"]
+	path = react-recipes
+	url = https://github.com/BasantHasaan/react-recipes.git
